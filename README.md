@@ -1,2 +1,2 @@
 # MediMog
-Yokoso watashi no project 
+Yokoso watashi no project
